@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ## Test data
 
-Test files can be downloaded from the [release page](https://github.com/swillems/coverage_plots/releases/latest).
+Test files are provided in the [data folder](data).
 
 ## Usage
 
