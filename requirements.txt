@@ -1,0 +1,6 @@
+pyteomics==4.4.1
+numpy==1.19.3
+seaborn==0.11.1
+matplotlib==3.3.4
+jupyter==1.0.0
+ipykernel==5.4.3
